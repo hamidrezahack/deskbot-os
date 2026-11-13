@@ -1,0 +1,8 @@
+secrets.h
+*.bin
+*.elf
+build/
+__pycache__/
+*.pyc
+.vscode/
+dist/
